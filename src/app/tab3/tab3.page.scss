@@ -1,0 +1,23 @@
+ion-toolbar{
+    background-color: var(--ion-color-mycolor);
+    height: 160px;
+    border-radius: 0px 0px px 10px;
+}
+
+ion-title{
+    font-size: 1.5em;
+    float: inline-start;
+    padding-top: 15px,
+}
+ion-searchbar{
+    padding: 20px;
+}
+ion-icon{
+    float: right;
+    padding-right: 20px;
+    width: 40px;
+    height: 40px;
+}
+ion-content.donaciones{
+    text-align: center;
+}
